@@ -1,0 +1,5 @@
+Model,F1 Score
+Retrieve Only,0.0238
+Baseline,0.0306
+No Rewrite,0.0419
+Hybrid,0.0469
